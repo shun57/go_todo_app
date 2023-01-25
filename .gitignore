@@ -17,3 +17,5 @@
 # vendor/
 
 tmp/
+
+auth/cert
